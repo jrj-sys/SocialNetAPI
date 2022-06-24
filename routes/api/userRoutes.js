@@ -20,7 +20,7 @@ router.route('/:id')
   .delete(deleteUserById)
 
 router.route('/:userId/friends/:friendsId')
-  .post(addFriendToUser)
+  .put(addFriendToUser)
   .delete(deleteFriendFromUser)
 
 module.exports = router;
