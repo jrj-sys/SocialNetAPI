@@ -16,7 +16,7 @@ Small scale API created to practice using MongoDB, Mongoose ORM, Express, and No
 ## Installation
 To install, clone the respository or download the zip to your targeted directory. Navigate to said directory and run `npm i` within your terminal in each directory.
 ## Usage
-Turn on the server with `npm start`. Open a browser and visit `http://localhost:3001`. 
+Turn on the server with `npm start`. For usage with Insomnia to test API routes, watch this [video](https://www.youtube.com/watch?v=FFiLub5lvKA).
 ## Credits
 [Jamel James](https://github.com/jrj-sys)
 ## Contribution 
