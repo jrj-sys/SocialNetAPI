@@ -12,7 +12,7 @@ Small scale API created to practice using MongoDB, Mongoose ORM, Express, and No
 3. [Installation](#Installation)
 4. [Usage](#Usage)
 5. [Credits](#Credits)
-6. 
+
 ## Installation
 To install, clone the respository or download the zip to your targeted directory. Navigate to said directory and run `npm i` within your terminal in each directory.
 ## Usage
